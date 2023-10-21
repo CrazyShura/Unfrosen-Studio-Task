@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58b6e211661eb8f4f861ee3bf1c70112, type: 3}
+  m_Name: DefaultCampaign
+  m_EditorClassIdentifier: 
+  missions:
+  - {fileID: 11400000, guid: 1d9a6291f5807544fb23794048a51239, type: 2}
+  - {fileID: 11400000, guid: 7400ad11c19970c49b2bb2275f5d56f9, type: 2}
+  - {fileID: 11400000, guid: 28cf4fdd7ab9f5642855e6d65e9473d1, type: 2}
+  - {fileID: 11400000, guid: bb383effb98970e45b6a5262a6a5b224, type: 2}
+  - {fileID: 11400000, guid: 1fa58fc61eec0924c8d63088b5171c07, type: 2}
+  - {fileID: 11400000, guid: c0ec2ac79b091d141bb1682cbbf47050, type: 2}
+  - {fileID: 11400000, guid: 810514ac857d811438a5666d29d7aa15, type: 2}
+  - {fileID: 11400000, guid: 8a4fa41e2d62c2145b3f6e97e9c9f121, type: 2}
+  - {fileID: 11400000, guid: b71111b0a5864884eaaa77350a224e66, type: 2}
+  - {fileID: 11400000, guid: d3a1adec3678ea64f944252aba6d0771, type: 2}
+  - {fileID: 11400000, guid: cb502c7a56590f74a8a455b259091ac4, type: 2}
+  startingHeroes:
+  - {fileID: 11400000, guid: 9e99c21e66a3a01418cebef59363972e, type: 2}
